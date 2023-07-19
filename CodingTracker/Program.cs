@@ -2,16 +2,18 @@
 Console.WriteLine("Hello C# Academy!");
 Console.WriteLine("Hello C# Academy!");
 
-Console.WriteLine("Hello C# Academy!");
+void MyMethodOne()
+{
 
-Console.WriteLine("Hello C# Academy!");
+}
 
-Console.WriteLine("Hello C# Academy!");
+void MyMethodTwo()
+{
 
-Console.WriteLine("Hello C# Academy!");
+}
 
-Console.WriteLine("Hello C# Academy!");
 
-Console.WriteLine("Hello C# Academy!");
+void MyMethodThree()
+{
 
-Console.WriteLine("Hello C# Academy!");
+}
